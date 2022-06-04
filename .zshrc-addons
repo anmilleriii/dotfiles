@@ -1,2 +1,7 @@
 # Run setup
 ./setup.sh
+
+# Alias git
+alias a="git add ."
+alias c="git cz"
+alias p="git push"
